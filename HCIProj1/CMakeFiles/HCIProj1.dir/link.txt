@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/HCIProj1.dir/main.o CMakeFiles/HCIProj1.dir/kbhit.o  -o HCIProj1 -rdynamic -lpthread 
